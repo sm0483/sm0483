@@ -6,7 +6,7 @@
          
   ## 💫 About Me :
 - 😄 Pronouns: He/His
-- 🌱 I’m currently learning more React Js and Node Js.
+- 🌱 I’m currently learning React Js and Node Js.
 - 💬 Ask me about MERN.
 - ⚡ Fun fact:I listen to music all day long..
 - :heart: I enjoy both cooking and watching films.
