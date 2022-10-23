@@ -10,7 +10,7 @@
 - 💬 Ask me about MERN.
 - ⚡ Fun fact:I listen to music all day long..
 - :heart: I enjoy both cooking and watching films.
-- :kissing_heart: linux fanboy
+- :kissing_heart: Linux fanboy
 
 
 
