@@ -14,10 +14,7 @@
 
 
 
-### 🌐 Socials
-<p align="left">
-<a href="https://github.com/sm0483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sm0483" height="30" width="40" /></a><a href="https://www.linkedin.com/in/sreerag-m-a76225245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm0483" height="30" width="40" /></a>
-</p>
+
 
 
 ### 💻 Languages and Tools
@@ -31,7 +28,7 @@
 </p>
 
 
-
+<br>
 
 ![Sreerag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm0483&theme=dark&show_icons=true&count_private=true&include_all_commits=true&)
 
@@ -40,7 +37,10 @@
 ![Sreerag's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sm0483&layout=compact&theme=dark)
 <br>
 
-
+### 🌐 Socials
+<p align="left">
+<a href="https://github.com/sm0483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sm0483" height="30" width="40" /></a><a href="https://www.linkedin.com/in/sreerag-m-a76225245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sm0483" height="30" width="40" /></a>
+</p>
 
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
