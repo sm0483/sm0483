@@ -24,11 +24,11 @@
 
 <br>
 
-![Sreerag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm0483&theme=dark&show_icons=true&count_private=true&include_all_commits=true&)
+![Sreerag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sm0483&theme=dark&show_icons=true&count_private=true&include_all_commits=true&)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sm0483&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
 
-![Sreerag's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sm0483&layout=compact&theme=dark)
+![Sreerag's Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sm0483&layout=compact&theme=dark)
 <br>
 
 ### 🌐 Socials
